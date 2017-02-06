@@ -324,12 +324,6 @@ main
 apm list --installed --bare - get a list of installed packages
 apm install --packages-file $HOME/.atom/packages.list
 
-###############################################################################
-# Zsh                                                                         #
-###############################################################################
-
-# Install Zsh settings
-ln -s ~/dotfiles/zsh/themes/nick.zsh-theme $HOME/.oh-my-zsh/themes
 
 
 ###############################################################################
